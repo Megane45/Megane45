@@ -2,7 +2,13 @@
 
 ###
 
-<p align="center">A passionate frontend developer from France</p>
+<p align="center">I am currently training to become a Web Developer.
+
+I am passionate about cinema and music, two worlds that fuel my creativity and inspire me every day. When I'm not coding, you can find me watching the latest movies or listening to music, always on the lookout for new discoveries and inspirations.
+
+I chose web development because I love solving problems and creating innovative solutions that make people's lives easier. My goal is to become an accomplished developer and contribute to projects that have a positive impact.
+
+I am always eager to learn new technologies and improve my skills, and I am excited to see where this journey will take me!</p>
 
 ###
 
